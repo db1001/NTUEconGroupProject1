@@ -1,0 +1,11 @@
+Simulation of a CES economy with cosumer externatlities:
+
+1. Consumers:
+
+2. Producers:
+
+3. Goods:
+
+4. Factors:
+
+5. Government:
