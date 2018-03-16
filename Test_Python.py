@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 16 15:42:05 2018
 
-@author: David Biasi
+@author: David, Liangchenng, Lucia, Maxime
 """
 
 print "hello, world!"
